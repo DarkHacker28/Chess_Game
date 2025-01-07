@@ -1,0 +1,1 @@
+This Chess Game is made in Visual Studio 17 using C# programming Language. All the instructions required to Play the game are provided inside and the functions are all commented so that you can modify when needed! Thanks :)

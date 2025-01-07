@@ -1,0 +1,28 @@
+C:\Users\Junaid Ali Chutia\Downloads\Compressed\chess-game-master\chess-game\bin\Debug\chess-game.exe.config
+C:\Users\Junaid Ali Chutia\Downloads\Compressed\chess-game-master\chess-game\bin\Debug\chess-game.exe
+C:\Users\Junaid Ali Chutia\Downloads\Compressed\chess-game-master\chess-game\bin\Debug\chess-game.pdb
+C:\Users\Junaid Ali Chutia\Downloads\Compressed\chess-game-master\chess-game\obj\Debug\chess-game.csprojAssemblyReference.cache
+C:\Users\Junaid Ali Chutia\Downloads\Compressed\chess-game-master\chess-game\obj\Debug\chess-game.csproj.CoreCompileInputs.cache
+C:\Users\Junaid Ali Chutia\Downloads\Compressed\chess-game-master\chess-game\obj\Debug\chess-game.exe
+C:\Users\Junaid Ali Chutia\Downloads\Compressed\chess-game-master\chess-game\obj\Debug\chess-game.pdb
+D:\ChessGame\chess-game\bin\Debug\chess-game.exe.config
+D:\ChessGame\chess-game\bin\Debug\chess-game.exe
+D:\ChessGame\chess-game\bin\Debug\chess-game.pdb
+D:\ChessGame\chess-game\obj\Debug\chess-game.csprojAssemblyReference.cache
+D:\ChessGame\chess-game\obj\Debug\chess-game.csproj.CoreCompileInputs.cache
+D:\ChessGame\chess-game\obj\Debug\chess-game.exe
+D:\ChessGame\chess-game\obj\Debug\chess-game.pdb
+D:\ChessGame\obj\Debug\chess-game.exe
+D:\ChessGame\obj\Debug\chess-game.pdb
+D:\ChessGame\bin\Debug\chess-game.exe.config
+D:\ChessGame\bin\Debug\chess-game.exe
+D:\ChessGame\bin\Debug\chess-game.pdb
+D:\ChessGame\obj\Debug\chess-game.csprojAssemblyReference.cache
+D:\ChessGame\obj\Debug\chess-game.csproj.CoreCompileInputs.cache
+D:\ChessGame\Game\bin\Debug\chess-game.exe.config
+D:\ChessGame\Game\bin\Debug\chess-game.exe
+D:\ChessGame\Game\bin\Debug\chess-game.pdb
+D:\ChessGame\Game\obj\Debug\chess-game.csprojAssemblyReference.cache
+D:\ChessGame\Game\obj\Debug\chess-game.csproj.CoreCompileInputs.cache
+D:\ChessGame\Game\obj\Debug\chess-game.exe
+D:\ChessGame\Game\obj\Debug\chess-game.pdb
